@@ -106,11 +106,15 @@ body{
     h1{
         font-size: 3vmin;
     }
-    .title{
-        height: 4.5%;
+   .title{
+        height: 4%;
     }
     .answers{
         line-height: 2.3;
+    }
+    .mode{
+        width: 14vmin;
+        height: 68%;
     }
 }
 
